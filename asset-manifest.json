@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/burger-shake/static/css/main.a4de0f89.css",
+    "main.js": "/burger-shake/static/js/main.9f565311.js",
+    "static/media/meals.jpg": "/burger-shake/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/burger-shake/index.html",
+    "main.a4de0f89.css.map": "/burger-shake/static/css/main.a4de0f89.css.map",
+    "main.9f565311.js.map": "/burger-shake/static/js/main.9f565311.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4de0f89.css",
+    "static/js/main.9f565311.js"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+    "Formules": [{
+        "id": 243,
+        "title": "BS1",
+        "content": "2 Cheese Burgers",
+        "image": "./bs3.jpg"
+    },{
+        "id": 243,
+        "title": "BS2",
+        "content": "2 Cheese Burgers",
+        "image": "./bs3.jpg"
+    },{
+        "id": 243,
+        "title": "BS3",
+        "content": "2 Cheese Burgers",
+        "image": "./bs3.jpg"
+    },{
+        "id": 243,
+        "title": "BS4",
+        "content": "2 Cheese Burgers",
+        "image": "./bs3.jpg"
+    },{
+        "id": 243,
+        "title": "BS5",
+        "content": "2 Cheese Burgers",
+        "image": "./bs3.jpg"
+    },{
+        "id": 243,
+        "title": "BS6",
+        "content": "2 Cheese Burgers",
+        "image": "./bs3.jpg"
+    },{
+        "id": 243,
+        "title": "BS7",
+        "content": "2 Cheese Burgers",
+        "image": "./bs3.jpg"
+    },{
+        "id": 243,
+        "title": "BS8",
+        "content": "2 Cheese Burgers",
+        "image": "./bs3.jpg"
+    }
+    ],
+    "Sunday" : [{
+        "id": 243,
+        "title": "Sunday Caramel",
+        "price": 3.5,
+        "image": "./bs3.jpg"
+    }, {
+        "id": 356,
+        "title": "Sunday Chocolat",
+        "price": 3.5,
+        "image": "./bs3.jpg"
+    }, {
+        "id": 454,
+        "title": "Sunday Fraise",
+        "price": 3.5,
+        "image": "./bs3.jpg"
+    }],
+
+"Milkshake" : [{
+    "id": 454,
+        "title": " Milkshake Nutella",
+        "price": 4.5,
+        "image": "./bs3.jpg"
+    },
+    {
+        "id": 454,
+        "title": " Milkshake Smarties",
+        "price": 4.5,
+        "image": "./bs3.jpg"
+    },
+    {
+        "id": 454,
+        "title": " Milkshake Kinder Bueno",
+        "price": 4.5,
+        "image": "./bs3.jpg"
+    },
+    {
+        "id": 454,
+        "title": " Milkshake Oreo",
+        "price": 4.5,
+        "image": "./bs3.jpg"
+    },
+    {
+        "id": 454,
+        "title": " Milkshake Speculos",
+        "price": 4.5,
+        "image": "./bs3.jpg"
+    },
+    {
+        "id": 454,
+        "title": " Milkshake Kitkat",
+        "price": 4.5,
+        "image": "./bs3.jpg"
+    },
+    {
+        "id": 454,
+        "title": " Milkshake Vanille",
+        "price": 4.5,
+        "image": "./bs3.jpg"
+    },
+    {
+        "id": 454,
+        "title": " Milkshake Ananas",
+        "price": 4.5,
+        "image": "./bs3.jpg"
+    },
+    {
+        "id": 454,
+        "title": " Milkshake Banane",
+        "price": 4.5,
+        "image": "./bs3.jpg"
+    },
+    {
+        "id": 454,
+        "title": " Milkshake Fraise",
+        "price": 4.5,
+        "image": "./bs3.jpg"
+    },
+    {
+        "id": 454,
+        "title": " Milkshake Framboise",
+        "price": 4.5,
+        "image": "./bs3.jpg"
+    },
+    {
+        "id": 454,
+        "title": " Milkshake Noix de Coco",
+        "price": 4.5,
+        "image": "./bs3.jpg"
+    },
+    {
+        "id": 454,
+        "title": " Milkshake Pistache",
+        "price": 4.5,
+        "image": "./bs3.jpg"
+    }
+]
+
+}
+    
+    
