@@ -2,31 +2,68 @@ import React from "react";
 import Card from "../UI/Card";
 import classes from "./AvailableMeals.module.css";
 import MealItem from "./MealItem/MealItem";
+import nems from "../../assets/nems.png"
+import nuggets from "../../assets/nuggets.png"
+import tenders from "../../assets/tenders.png"
+import stickMozza from "../../assets/stickMozza.png"
+
 
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: "Sushi",
-    description: "Finest fish and veggies",
-    price: 22.99,
+    name: "Nuggets x3",
+    description: "",
+    image: nuggets,
+    price: 6.0,
   },
   {
-    id: "m2",
-    name: "Schnitzel",
-    description: "A german specialty!",
-    price: 16.5,
+    id: "m1",
+    name: "Nuggets x6",
+    description: "",
+    image: nuggets,
+    price: 12.0,
   },
   {
-    id: "m3",
-    name: "Barbecue Burger",
-    description: "American, raw, meaty",
-    price: 12.99,
+    id: "m1",
+    name: "Tenders x4",
+    description: "",
+    image: tenders,
+    price: 7.0,
   },
   {
-    id: "m4",
-    name: "Green Bowl",
-    description: "Healthy...and green...",
-    price: 18.99,
+    id: "m1",
+    name: "Tenders x8",
+    description: "",
+    image: tenders,
+    price: 12.0,
+  },
+  {
+    id: "m12",
+    name: "StickMozza x6",
+    description: "",
+    image: stickMozza,
+    price: 6.5,
+  },
+  {
+    id: "m12",
+    name: "StickMozza x9",
+    description: "",
+    image: stickMozza,
+    price: 9.0,
+  },
+  {
+    id: "m12",
+    name: "Nem's x3",
+    description: "",
+    image: nems,
+    price: 7.0,
+  },
+  {
+    id: "m12",
+    name: "Nem's x5",
+    description: "",
+    image: nems,
+    price: 9.5,
   },
 ];
 
@@ -38,6 +75,7 @@ const AvalaibleMeals = () => {
       name={meal.name}
       description={meal.description}
       price={meal.price}
+      image={meal.image}
     />
   ));
 
