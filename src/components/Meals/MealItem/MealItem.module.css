@@ -4,6 +4,12 @@
   margin: 1rem;
   padding-bottom: 1rem;
   border-bottom: 1px solid #ccc;
+  flex-direction: column;
+}
+
+.mealDetail {
+  display: flex;
+  justify-content: space-between;
 }
 
 .meal h3 {
@@ -30,4 +36,11 @@
 
 .mealLeftColumn {
   display: flex;
+}
+
+@media screen and (max-width: 475px) {
+  .meal {
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
 }
