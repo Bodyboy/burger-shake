@@ -1,3 +1,18 @@
+@font-face {
+  font-family: "InfinitS";
+  src: local("InfinitS"),
+    url("../../fonts/InfinitS.ttf") format("truetype");
+  font-weight: normal;
+}
+
+.mealsTitle{
+  font-family: InfinitS;
+  color: #fcbc36;
+  font-size: 2rem;
+  letter-spacing: 2px;
+  margin-bottom: -6px;
+}
+
 .meals {
     max-width: 60rem;
     width: 90%;
