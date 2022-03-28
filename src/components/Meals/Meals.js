@@ -7,8 +7,8 @@ import tenders from "../../assets/tenders.png";
 import stickMozza from "../../assets/stickMozza.png";
 
 import sundae from "../../assets/sundae.png";
-import milkshake from "../../assets/sundae.png";
-import topping from "../../assets/sundae.png";
+import milkshake from "../../assets/milkshake.png";
+import topping from "../../assets/topping.png";
 
 const DESSERT_MEALS = [
   {
@@ -97,8 +97,8 @@ const Meals = () => {
   return (
     <React.Fragment>
       {/*<MealsSummary />*/}
-      <AvalaibleMeals title="Tex mex" meals={TEXMEX_MEALS} />
-      <AvalaibleMeals title="Desserts" meals={DESSERT_MEALS} />
+      <AvalaibleMeals title="Tex mex" meals={TEXMEX_MEALS} menuMode={true} />
+      <AvalaibleMeals title="Desserts" meals={DESSERT_MEALS} menuMode={false} />
     </React.Fragment>
   );
 };

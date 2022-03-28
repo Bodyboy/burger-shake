@@ -12,8 +12,8 @@ const Cart = (props) => {
   totalAmount = totalAmount.replace(".", ",");
 
   const hasItems = cartCtx.items.length > 0;
-  const cartItemRemoveHandler = (id) => {
-    cartCtx.removeItem(id);
+  const cartItemRemoveHandler = (item) => {
+    cartCtx.removeItem(item);
   };
   const cartItemAddHandler = (item) => {
     cartCtx.addItem({ ...item, amount: 1 });
@@ -23,11 +23,12 @@ const Cart = (props) => {
     <ul className={classes["cart-items"]}>
       {cartCtx.items.map((item) => (
         <CartItem
-          key={item.id}
+          key={item.isMenu ? `${item.id}-menu}` : ""}
+          isMenu={item.isMenu}
           name={item.name}
           amount={item.amount}
           price={item.price}
-          onRemove={cartItemRemoveHandler.bind(null, item.id)}
+          onRemove={cartItemRemoveHandler.bind(null, item)}
           onAdd={cartItemAddHandler.bind(null, item)}
         />
       ))}
