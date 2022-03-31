@@ -55,4 +55,7 @@ li.meal:last-child {
     margin-left: 0rem;
     margin-right: 0rem;
   }
+  .description {
+    display: none;
+  }
 }
