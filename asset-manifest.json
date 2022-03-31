@@ -1,24 +1,33 @@
 {
   "files": {
-    "main.css": "/burger-shake/static/css/main.8ffa545d.css",
-    "main.js": "/burger-shake/static/js/main.41cc8f68.js",
-    "static/media/meals.jpg": "/burger-shake/static/media/meals.2971f633fc1382581cbf.jpg",
+    "main.css": "/burger-shake/static/css/main.4ba93e18.css",
+    "main.js": "/burger-shake/static/js/main.8798cd14.js",
     "static/media/burger-shake-logo.png": "/burger-shake/static/media/burger-shake-logo.cd7b331eb4f3548619cf.png",
+    "static/media/burgerShakeDesk.jpg": "/burger-shake/static/media/burgerShakeDesk.3f46187ff80f3ec95bec.jpg",
+    "static/media/bs8.png": "/burger-shake/static/media/bs8.17d92421227abdd19730.png",
+    "static/media/bs9.png": "/burger-shake/static/media/bs9.b09f1d21a27a61c1e526.png",
+    "static/media/bs3.png": "/burger-shake/static/media/bs3.6a1a4fa0fc89e8953366.png",
+    "static/media/bs6.png": "/burger-shake/static/media/bs6.dc8fc89e87ab0a433aa9.png",
+    "static/media/bs2.png": "/burger-shake/static/media/bs2.0db4a4bd9ab348c268be.png",
     "static/media/milkshake.png": "/burger-shake/static/media/milkshake.8284464b3049363e6409.png",
     "static/media/topping.png": "/burger-shake/static/media/topping.a13a786f4ff38c5938b8.png",
     "static/media/tenders.png": "/burger-shake/static/media/tenders.4bc64cf2be79c46819f0.png",
+    "static/media/bs7.png": "/burger-shake/static/media/bs7.994a7d9d192168b6d6ca.png",
     "static/media/sundae.png": "/burger-shake/static/media/sundae.7cf43ddd4c633140994f.png",
     "static/media/stickMozza.png": "/burger-shake/static/media/stickMozza.f6364f6a9ddfbf4dc9f0.png",
+    "static/media/bs5.png": "/burger-shake/static/media/bs5.92afa720b54daa540493.png",
+    "static/media/bs1.png": "/burger-shake/static/media/bs1.97e014d0c443ffbfaa2c.png",
+    "static/media/bs4.png": "/burger-shake/static/media/bs4.203cc228fb6744705fc1.png",
     "static/media/nuggets.png": "/burger-shake/static/media/nuggets.5f0f4c34de103a58cdfe.png",
     "static/media/nems.png": "/burger-shake/static/media/nems.fca1813510a2487803ff.png",
     "static/media/PristyneDEMO.ttf": "/burger-shake/static/media/PristyneDEMO.49a5433b386203ffd7ce.ttf",
     "static/media/InfinitS.ttf": "/burger-shake/static/media/InfinitS.50416baec559a7fa3257.ttf",
     "index.html": "/burger-shake/index.html",
-    "main.8ffa545d.css.map": "/burger-shake/static/css/main.8ffa545d.css.map",
-    "main.41cc8f68.js.map": "/burger-shake/static/js/main.41cc8f68.js.map"
+    "main.4ba93e18.css.map": "/burger-shake/static/css/main.4ba93e18.css.map",
+    "main.8798cd14.js.map": "/burger-shake/static/js/main.8798cd14.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ffa545d.css",
-    "static/js/main.41cc8f68.js"
+    "static/css/main.4ba93e18.css",
+    "static/js/main.8798cd14.js"
   ]
 }
