@@ -1,6 +1,6 @@
 import React from "react";
 import classes from "./header.module.css";
-import mealsImage from "../../assets/meals.jpg";
+import burgerShakeDesk from "../../assets/burgerShakeDesk.jpg";
 import HeaderCartButton from "./HeaderCartButton";
 import logo from "../../assets/burger-shake-logo.png";
 
@@ -12,7 +12,7 @@ const Header = (props) => {
         <HeaderCartButton onClick={props.onShowCart} />
       </header>
       <div className={classes["main-image"]}>
-        <img src={mealsImage} alt="a table food of delicious food !" />
+        <img src={burgerShakeDesk} alt="Bienvenue chez Burger & Shake" />
       </div>
     </React.Fragment>
   );

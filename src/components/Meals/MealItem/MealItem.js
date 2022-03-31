@@ -31,7 +31,7 @@ const MealItem = (props) => {
       <div className={classes.mealDetail}>
         <div className={classes.mealLeftColumn}>
           <img className={classes.imgMeal} src={props.image} alt="nems" />
-          <div>
+          <div >
             <div className={classes.description}>{props.description}</div>
           </div>
         </div>
