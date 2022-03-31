@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/burger-shake/static/css/main.4ba93e18.css",
+    "main.css": "/burger-shake/static/css/main.9e3839f1.css",
     "main.js": "/burger-shake/static/js/main.8798cd14.js",
     "static/media/burger-shake-logo.png": "/burger-shake/static/media/burger-shake-logo.cd7b331eb4f3548619cf.png",
     "static/media/burgerShakeDesk.jpg": "/burger-shake/static/media/burgerShakeDesk.3f46187ff80f3ec95bec.jpg",
@@ -23,11 +23,11 @@
     "static/media/PristyneDEMO.ttf": "/burger-shake/static/media/PristyneDEMO.49a5433b386203ffd7ce.ttf",
     "static/media/InfinitS.ttf": "/burger-shake/static/media/InfinitS.50416baec559a7fa3257.ttf",
     "index.html": "/burger-shake/index.html",
-    "main.4ba93e18.css.map": "/burger-shake/static/css/main.4ba93e18.css.map",
+    "main.9e3839f1.css.map": "/burger-shake/static/css/main.9e3839f1.css.map",
     "main.8798cd14.js.map": "/burger-shake/static/js/main.8798cd14.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ba93e18.css",
+    "static/css/main.9e3839f1.css",
     "static/js/main.8798cd14.js"
   ]
 }
